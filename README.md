@@ -27,12 +27,20 @@ AirRush is a C written, iGraphics powered desktop game.
     Maisha Musarrat Nabila
     Israt Moyeen Noumi
     Bushra Kamal Rafa
+    
+ ## Screenshots
+ [![b1RrTQ.md.png](https://iili.io/b1RrTQ.md.png)](https://freeimage.host/i/b1RrTQ)
+[![b1R8Yb.md.png](https://iili.io/b1R8Yb.md.png)](https://freeimage.host/i/b1R8Yb)
+[![b1RUyx.md.png](https://iili.io/b1RUyx.md.png)](https://freeimage.host/i/b1RUyx)
+[![b1RSvj.md.png](https://iili.io/b1RSvj.md.png)](https://freeimage.host/i/b1RSvj)
 
 License
 ----
 MIT
 
 **Free Software, Hell Yeah!**
+
+
 
 
 
